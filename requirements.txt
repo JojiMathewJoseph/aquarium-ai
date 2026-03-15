@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+sqlalchemy
+pyodbc
+roboflow
+inference-sdk
+python-dotenv
